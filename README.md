@@ -6,4 +6,6 @@ Roll no - 2210990653
 
 Type - Research Paper
 
-Status - Submitted
+Status - To be submitted
+
+Conference - https://aitpune-icndia26.com/
