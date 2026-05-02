@@ -8,4 +8,4 @@ Type - Research Paper
 
 Status - To be submitted
 
-Conference - https://aitpune-icndia26.com/
+Conference - https://temsmet.vercel.app/index.html
